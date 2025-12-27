@@ -15,7 +15,7 @@ const App: React.FC = () => {
   const WHATSAPP = "+916394585030";
   
   // Direct link transformation for Google Drive hosted images
-  const PROFILE_IMAGE_URL = "https://drive.google.com/uc?id=1MxSlblOcg_6kWD-nPoJMnlL4jZLJx4Lo";
+  const PROFILE_IMAGE_URL = "https://drive.google.com/file/d/1MxSlblOcg_6kWD-nPoJMnlL4jZLJx4Lo/view?usp=sharing";
 
   return (
     <div className="min-h-screen">
